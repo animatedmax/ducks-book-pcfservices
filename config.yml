@@ -32,6 +32,10 @@ sections:
   directory: appdynamics
   subnav_template: _appdynamics_subnav.erb
 - repository:
+    name: pivotal-cf/docs-appdog
+  directory: pcf-appdog
+  subnav_template: pcf_appdog_subnav.erb
+- repository:
     name: pivotal-cf/docs-appmon
   directory: appmon
   subnav_template: pivotal_dynatrace_service_subnav.erb
