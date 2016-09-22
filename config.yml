@@ -37,6 +37,7 @@ sections:
 # repos in org pivotal-cf: alphabetical
 - repository:
     name: pivotal-cf/docs-a9s-mongodb
+    at_path: docs-content
   directory: a9s-mongodb
   subnav_template: a9s-mongodb-for-pcf_subnav.erb
 - repository:
