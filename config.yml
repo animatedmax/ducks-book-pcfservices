@@ -32,7 +32,9 @@ products:
     subnav_root: service-backup/17-0-0/subnav-root.html
   - id: service-backups-v16-0-1
     subnav_root: service-backup/16-0-1/subnav-root.html
-
+  - id: fim
+    subnav_root: addon-fim/subnav-root.html
+ 
 sections:
 # cross-product resources
 - repository:
@@ -65,7 +67,7 @@ sections:
 - repository:
     name: pivotal-cf/docs-addon-fim
   directory: addon-fim
-  subnav_template: addon_fim.erb
+  product_id: fim
 - repository:
     name: pivotal-cf/docs-addon-ipsec
   directory: addon-ipsec
