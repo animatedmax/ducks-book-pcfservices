@@ -61,6 +61,7 @@ sections:
     at_path: docs-content
   directory: a9s-mongodb
   subnav_template: a9s-mongodb_subnav.erb
+- repository:
     name: pivotal-cf/docs-concourse
   directory: p-concourse
   product_id: concourse
