@@ -93,6 +93,7 @@ sections:
   subnav_template: appdog.erb
 - repository:
     name: pivotal-cf/docs-apigee
+    ref: review
   directory: apigee
   subnav_template: apigee_subnav.erb
 - repository:
