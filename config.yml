@@ -67,7 +67,7 @@ sections:
     name: pivotal-cf/docs-a9s-postgresql
     at_path: docs-content
   directory: a9s-postgresql
-  subnav_template: a9s-posgresql.erb
+  subnav_template: a9s-postgresql.erb
 - repository:
     name: pivotal-cf/docs-concourse
   directory: p-concourse
