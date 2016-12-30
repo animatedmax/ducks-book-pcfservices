@@ -11,7 +11,7 @@ elastic_search: true
 
 sections:
 - repository:
-    name: animatedmax/docs-mysql
+    name: animatedmax/ducks-mysql
     ref: 1.8.0
   directory: p-mysql/1-8
   subnav_template: pivotal_edge_mysql_service_subnav.erb
