@@ -1,8 +1,6 @@
 ---
-book_repo: animatedmax/docs-book-pcfservices
-layout_repo: animatedmax/docs-layout-repo
-
-feedback_enabled: true
+book_repo: animatedmax/ducks-book-pcfservices
+layout_repo: animatedmax/ducks-layout-repo
 
 broken_link_exclusions: iefix|arrowhead
 repo_link_enabled: true
